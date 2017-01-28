@@ -17,6 +17,8 @@ Customer
 
 Product
 -	Product ID (PK)
+- Item Description
+- Price
 -	Quantity
 
 Order
